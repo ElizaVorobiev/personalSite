@@ -526,9 +526,10 @@ section#skills {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    font-size: 20px;
 }
 #skills .progress .progress-bar {
-    border
+    
 }
 
 section h2.section-heading {
