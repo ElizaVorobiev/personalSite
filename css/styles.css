@@ -453,7 +453,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/web-pics/IMG_7805.jpg);
+    background-image: url(../img/IMG_7805.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -515,6 +515,9 @@ section {
 }
 section#skills {
    /* background: #0F0F0D;*/
+}
+#skills .progress .progress-bar {
+    border
 }
 
 section h2.section-heading {
