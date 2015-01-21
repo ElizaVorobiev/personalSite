@@ -195,6 +195,7 @@
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
 }
 
 .text-muted {
@@ -206,7 +207,7 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 20px;
     line-height: 1.75;
 }
 
@@ -508,7 +509,9 @@ header .intro-text .intro-heading {
     }
 }
 .profile-picture{
+    float: left;
     width: 25%;
+    margin: 4%;
 }
 section {
     padding: 100px 0;
