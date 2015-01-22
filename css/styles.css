@@ -1,7 +1,16 @@
 #about .profile-picture{
 	height:100%;
+    border-radius: 4px;
 }
-
+#arrowDownHeader img {
+    margin-bottom:15%;
+}
+#arrowDownHeader:hover {
+    opacity:0.5;
+}
+#skills .skillsList{
+    list-style-image: url("../img/arrowSide.png");
+}
 
 // Timeline
 .timeline {
@@ -535,6 +544,7 @@ section#skills {
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
+    padding-bottom: 20px;
     font-size: 40px;
     text-align: center;
 }
