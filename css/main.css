@@ -12,8 +12,8 @@ body {
 .contactSocial {
     text-align: center;
 }
-.contactSocial img {
-    padding: 10px;
+.contactSocial, .contactSocial img {
+     padding: 10px;
 }
 .pinkHighlight h1{
     color:#E42D41;
