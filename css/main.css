@@ -9,11 +9,18 @@ body {
 }
 
 //personal touches
-#happyHour{
-    color: #E42D41;
-}
 .contactSocial {
     text-align: center;
+}
+.contactSocial img {
+    padding: 10px;
+}
+.pinkHighlight h1{
+    color:#E42D41;
+}
+.contactSocial a:hover {
+    opacity: 0.4;
+    text-decoration: none;
 }
 .skillset li {
     font-size: 21px;
