@@ -26,12 +26,16 @@ body {
     font-size: 21px;
     font:inherit;
 }
+#skills .featurette-image{
+    width: 300px;
+
+}
 //formatting
 .header-image {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('../images/mountain-background-grey copy.png') no-repeat center center scroll;
+    background: url('../images/bg.png') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
