@@ -37,7 +37,7 @@ body {
     width: 100%;
     min-height: 100%;
     text-align: center;
-    background: url("../images/bg.gif") no-repeat center center scroll;
+    background: url("../images/bg.png") no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
