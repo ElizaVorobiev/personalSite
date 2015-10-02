@@ -26,6 +26,9 @@ body {
     font-size: 21px;
     font:inherit;
 }
+.timeline-image .myLogo {
+    padding: 10px;
+}
 
 /*formatting*/
 
