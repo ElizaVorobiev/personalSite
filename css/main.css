@@ -27,11 +27,11 @@ body {
     font:inherit;
 }
 #skills .featurette-image{
-    width: 300px;
+    max-width: 300px;
 
 }
 //formatting
-.header-image {
+#headerImage {
     display: block;
     width: 100%;
     text-align: center;
