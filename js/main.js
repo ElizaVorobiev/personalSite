@@ -106,6 +106,7 @@
       itemsDesktopSmall : [979,1],
       itemsTablet : [768,1],
       itemsMobile : [479,1],
+      autoPlay : false,
 
       // CSS Styles
       baseClass : "owl-carousel",
