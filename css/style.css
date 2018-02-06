@@ -680,7 +680,21 @@ ul.portfolio-image li .desc{
   font-size: 14px;
   font-weight: 700;
 }
-
+.portfolioProject .projectText{
+  background: #ffffff;
+  padding:10px;
+}
+.portfolioProject:hover{
+  -webkit-filter: grayscale(20%);
+  transform: scale(1.15);
+  cursor: pointer;
+}
+#D2L a {
+  font-weight: bold;
+}
+.textSection {
+  padding-top:40px;
+}
 /*---------- b. service -----------*/
 .icon-use {
   font-family: 'Glyphter';
